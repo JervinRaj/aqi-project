@@ -1,0 +1,11 @@
+node_modules/
+target/
+frontend-tools/
+osm/
+*.pbf
+*.exe
+.DS_Store
+*.log
+dist/
+.env
+.env.local
